@@ -34,9 +34,9 @@ for i = 1:N
 end
 
 for i = 1:N
-    fprintf('A{%d} \n',i);
+    fprintf('A{%d} \n',i)
     % in this case we show all homogenous tranformation matrix
-    A{i};
+    A{i}
     pause;
 end
 
@@ -57,10 +57,10 @@ R = cell(1,N);
 
 for i = 1:N
     R{i}=A{i}(1:3,1:3);
-    fprintf('R{%d} \n',i);
-    R{i};
+    fprintf('R{%d} \n',i)
+    R{i}
     pause;
 end
 
 %% Analytic Jacobian
-AJ = jacobian(p,[q1 q2 q3])
+AJ = jacobian(p,[])
