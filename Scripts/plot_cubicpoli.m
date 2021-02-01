@@ -18,7 +18,7 @@ plot(t,qp);grid; title('position');xlabel('time [s]');ylabel('[deg]')
 pause;
 
 % velocity
-qv= dq*(3*a*(t/T).^2 + b*(t/T))
+qv= dq*(3*a*(t/T).^2 + 2*b*(t/T))
 
 figure
 hold on
@@ -26,7 +26,7 @@ plot(t,qv);grid; title('velocity');xlabel('time [s]');ylabel('[deg/s]')
 pause;
 
 % acceleration
-qa=dq*(6*a*(t/T)+b)
+qa=dq*(6*a*(t/T)+ 2*b)
 
 figure
 hold on
