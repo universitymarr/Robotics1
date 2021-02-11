@@ -1,5 +1,13 @@
-# Robotics1
-Sapienza 2019 
+# Robotics 1
+
+|   | Available | Last Update |
+| ------------- | ------------- | ------------ |
+| Exams | Yes | 2020 |
+| Homework  | No |  |
+| Notes  | No |  |
+| Scripts Matlab | Yes |
+| Slides | Yes | 2019 |
+
 
 ## Requirements for scripts
 MATLAB for students
