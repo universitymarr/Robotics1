@@ -2,11 +2,12 @@
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
-| Exams | Yes | 2020 |
+| Exams | Yes | 2021 |
 | Homework  | No |  |
 | Notes  | No |  |
 | Scripts Matlab | Yes | 2019 |
 | Slides | Yes | 2019 |
+| Book | Yes | |
 
 
 ## Requirements for scripts
