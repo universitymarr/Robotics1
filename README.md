@@ -5,7 +5,7 @@
 | Exams | Yes | 2021 |
 | Homework  | No |  |
 | Notes  | No |  |
-| Scripts Matlab | Yes | 2019 |
+| Scripts Matlab | Yes | 2021 |
 | Slides | Yes | 2019 |
 | Book | Yes | |
 
