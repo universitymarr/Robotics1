@@ -11,7 +11,9 @@
 
 # Website of the course
 
-[Course of Robotics 1](http://www.diag.uniroma1.it/~deluca/rob1_en.php)
+|   Course Site | Last Update |
+| ------------- | ------------- |
+[http://www.diag.uniroma1.it/~deluca/rob1_en.php](http://www.diag.uniroma1.it/~deluca/rob1_en.php) | 2021 |
 
 ## Requirements for scripts
 MATLAB for students
