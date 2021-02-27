@@ -13,7 +13,11 @@
 
 |   Course Site | Last Update |
 | ------------- | ------------- |
-[http://www.diag.uniroma1.it/~deluca/rob1_en.php](http://www.diag.uniroma1.it/~deluca/rob1_en.php) | 2021 |
+[http://www.diag.uniroma1.it/~deluca/rob1_en/material_rob1_en.html](http://www.diag.uniroma1.it/~deluca/rob1_en/material_rob1_en.html) | 2021 |
+
+| Google Group | Last Update |
+| ------------ | ----------- |
+| [https://groups.google.com/a/diag.uniroma1.it/d/forum/robotics1_2020-21](https://groups.google.com/a/diag.uniroma1.it/d/forum/robotics1_2020-21) | 2020|
 
 ## Requirements for scripts
 MATLAB for students
