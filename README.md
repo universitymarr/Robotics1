@@ -4,7 +4,7 @@
 | -------------- | --------- | ----------- |
 | Exams          | Yes       | 2021        |
 | Homework       | No        | ---         |
-| Notes          | No        | ---         |
+| Notes          | Yes       | 2022 Mar    |
 | Scripts Matlab | Yes       | 2021 Feb    |
 | Scripts_v2     | Yes       | 2021 Dec    |
 | Slides         | Yes       | 2019        |
