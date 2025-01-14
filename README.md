@@ -5,7 +5,7 @@
 | Exams          | Yes       | 2024 Dec    |
 | Homework       | No        | ---         |
 | Notes          | Yes       | 2024 Jul    |
-| Scripts        | Yes       | 2024 Jul    |
+| Scripts        | Yes       | 2025 Jan    |
 | Slides         | Yes       | 2024 Dec    |
 
 # Website of the course
