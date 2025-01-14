@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: robobox
+Version: 1.0.0
+Summary: Toolbox for robotics applications
+Author: Mowibox
+Requires-Dist: numpy
+Requires-Dist: sympy
+Requires-Dist: matplotlib

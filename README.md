@@ -34,4 +34,5 @@ _Remember to always thank who shares their work for free!_
 | **[Elisa Foderaro](https://github.com/Berenice02)**    | Original 2020-2021 contribution                                                                     |
 | **[Antonio Di Sabatino](https://github.com/Tino-97)**  | [Theory updates](https://github.com/Tino-97/Robotics1) for A.Y. 2021-2022                           |
 | **[Martina Doku](https://github.com/MartinaDoku2001)** | [Theory & Scripts updates](https://github.com/MartinaDoku2001/robotics1_scripts) for A.Y. 2023-2024 |
+| **[Ousmane Thiongane](https://github.com/Mowibox)** | [Scripts updates](https://github.com/Mowibox/Robobox) for A.Y. 2024-2025 (in Python) |
 | **[Gianmarco Scarano](https://github.com/SlimShadys)** | Current Repo maintainer                                                                             |
