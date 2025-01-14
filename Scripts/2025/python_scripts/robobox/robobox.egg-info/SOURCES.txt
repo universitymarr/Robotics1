@@ -1,6 +1,0 @@
-setup.py
-robobox.egg-info/PKG-INFO
-robobox.egg-info/SOURCES.txt
-robobox.egg-info/dependency_links.txt
-robobox.egg-info/requires.txt
-robobox.egg-info/top_level.txt
